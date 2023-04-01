@@ -28,7 +28,7 @@ pipeline {
             steps {
                 echo 'completed this simple java maven app!!!'
                 echo 'This looks pretty cool!'
-                echo 'This looks good'
+                echo 'This looks pretty good'
             }
         }
         
